@@ -1,24 +1,24 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Cody Lobdell. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "안녕하세요!",
+      "description": "제 이름은 코디 로벨입니다. 저는 현재 소프트웨어 개발의 정규 학생으로 코드 펠로우 교육 학원에 다니고 있습니다. 나는 자유시간에 등산, 음악, 비디오 게임, 그리고 영화 보는 것을 즐깁니다!!",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "나에 대하여",
+        "projects": "프로젝트",
+        "skills": "기술들",
+        "experience": "경험하다"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "오드 덕 웹 페이지",
+        "startDate": "2월 2023",
+        "description": "이것은 Odd-Duck 웹페이지입니다",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/odd-duck/sandy-millar-OmCLwMtqtbs-unsplash.jpg",
+          "images/portfolio/odd-duck/dog-duck.jpg"
         ],
-        "url": "",
+        "url": "https://codylobdell.github.io/odd-duck/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,7 +35,7 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "Project Magenta",
         "startDate": "2018",
         "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
         "images": [
@@ -55,7 +55,7 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
+        "title": "Course 301 Final",
         "startDate": "2015",
         "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
         "images": [
