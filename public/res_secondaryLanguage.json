@@ -21,69 +21,73 @@
         "url": "https://codylobdell.github.io/odd-duck/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
         ]
       },
       {
-        "title": "Project Magenta",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "프로젝트 마젠타",
+        "startDate": "2월 2023",
+        "description": "코드 펠로우 클래스 201의 최종 그룹 프로젝트",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "/images/portfolio/project-magenta/jannis-edelmann-G69CWIw1SEU-unsplash.jpg",
+          "/images/portfolio/project-magenta/tiko-giorgadze-N19l9MJCpFQ-unsplash.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://teammagenta.github.io/project-magenta/",
         "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
         ]
       },
       {
-        "title": "Course 301 Final",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "301코스 결승",
+        "startDate": "3월 2023",
+        "description": "301 결승전의 자리 표시자",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "/images/portfolio/course301-final/edge2edge-media-x21KgBfOd_4-unsplash.jpg",
+          "/images/portfolio/course301-final/dawid-zawila--G3rw6Y02D0-unsplash.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "코드 펠로우",
+        "title": "소프트웨어 개발자",
+        "years": "01.2019 - 현재의.",
         "mainTech": [
           "Angular 8/9/10"
         ],
@@ -98,9 +102,9 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "미국 육군",
+        "title": "지리공간 분석가",
+        "years": "11.2015 - 08.2022",
         "mainTech": [
           "Angular 7/8"
         ],
