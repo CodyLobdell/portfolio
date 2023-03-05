@@ -12,11 +12,11 @@
     "projects": [
       {
         "title": "Odd-Duck Web Page",
-        "startDate": "2022",
+        "startDate": "February 2023",
         "description": "This is the Odd-Duck web Page",
         "images": [
           "images/portfolio/odd-duck/sandy-millar-OmCLwMtqtbs-unsplash.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/odd-duck/dog-duck.jpg"
         ],
         "url": "",
         "technologies": [
@@ -35,12 +35,12 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Project Magenta",
+        "startDate": "February 2023",
+        "description": "Final group project for Code Fellows Class 201 ",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "/images/portfolio/project-magenta/jannis-edelmann-G69CWIw1SEU-unsplash.jpg",
+          "/images/portfolio/project-magenta/tiko-giorgadze-N19l9MJCpFQ-unsplash.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,12 +55,12 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Course 301 Final",
+        "startDate": "March 2023",
+        "description": "Placeholder for the 301 Final ",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "/images/portfolio/course301-final/edge2edge-media-x21KgBfOd_4-unsplash.jpg",
+          "/images/portfolio/course301-final/dawid-zawila--G3rw6Y02D0-unsplash.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
