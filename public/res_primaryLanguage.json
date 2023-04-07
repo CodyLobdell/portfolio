@@ -59,14 +59,14 @@
         ]
       },
       {
-        "title": "Course 301 Final",
+        "title": "Stuff Collector",
         "startDate": "March 2023",
-        "description": "Placeholder for the 301 Final ",
+        "description": "Final group project for Code Fellows Class 301",
         "images": [
           "/images/portfolio/course301-final/edge2edge-media-x21KgBfOd_4-unsplash.jpg",
           "/images/portfolio/course301-final/dawid-zawila--G3rw6Y02D0-unsplash.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://tubular-belekoy-03bf57.netlify.app/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
