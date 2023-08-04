@@ -2,6 +2,7 @@
     "basic_info": {
       "description_header": "Hello, there!",
       "description": " My name is Cody Lobdell. Im a Software developer with a foundation in programming principles spanning multiple platforms. Currently holds a TS/SCI Security Clearance. Experienced in programming; developing, testing and debugging code; designing interfaces; and administering systems and networks.",
+
       
       "section_name": {
         "about": "About me",
@@ -116,7 +117,8 @@
           "Django",
           "PHP",
           "JavaScript",
-          "DHTMLX Gantt"
+          "DHTMLX Gantt",
+          "Other Stuff"
         ]
       }
     ]
