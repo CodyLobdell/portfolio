@@ -1,4 +1,4 @@
 # Modify this portfolio
 
 New site, LIVE @
-https://portfolio-for-lab05.netlify.app/
+https://portfolio-for-resume.netlify.app/
