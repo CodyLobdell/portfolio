@@ -59,14 +59,14 @@
         ]
       },
       {
-        "title": "301코스 결승",
+        "title": "스터프 수집기",
         "startDate": "3월 2023",
         "description": "301 결승전의 자리 표시자",
         "images": [
           "/images/portfolio/course301-final/edge2edge-media-x21KgBfOd_4-unsplash.jpg",
           "/images/portfolio/course301-final/dawid-zawila--G3rw6Y02D0-unsplash.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://tubular-belekoy-03bf57.netlify.app/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
